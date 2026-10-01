@@ -1,6 +1,9 @@
 # In a nuts shell on Canine-ECG-Physiozoo- Projects
 An end-to-end Python framework for ECG signal processing and feature extraction. Converts raw cardiac signals into time-frequency STFT spectrograms and transforms them into 2D polar coordinate images. Includes Pan-Tompkins R-peak detection, sliding window segmentation, and automated dataset generation tailored for CNN-based deep learning workflows.
 
+<img width="2207" height="1010" alt="image" src="https://github.com/user-attachments/assets/0a09d724-923c-420c-82b6-5300e2a86b82" />
+
+
 
 ## 🫀 ECG Signal Processing & Polar Spectrogram Pipeline
 
